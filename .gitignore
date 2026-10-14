@@ -12,3 +12,12 @@
 *.key
 .env
 .env.*
+.local-https/
+diagnostics/
+artifacts/
+*.cer
+*.crt
+*.der
+monitor.local.ps1
+paper-inventory.json*
+print-history.json*
