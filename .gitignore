@@ -1,0 +1,14 @@
+.vs/
+.vscode/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.cache
+*.log
+*.pfx
+*.p12
+*.pem
+*.key
+.env
+.env.*
